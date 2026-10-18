@@ -70,12 +70,12 @@ Not eligible yet.
 - Repo + short demo + Canvas
 
 ## Rubric (100)
+
 | Criterion | Pts |
 |-----------|----:|
-| Runs correctly on a supported path | 40 |
-| Meets prompt requirements | 30 |
-| Clear outcome messages | 15 |
-| GitHub + short demo video | 15 |
+| Code submitted that does the work | 50 |
+| Video explanation | 50 |
+
 
 ## Scope fence
 No loops, no functions, no `switch`. No `if` nested inside an `if` — the chain does it. Braces on every branch is a requirement, not a style.
